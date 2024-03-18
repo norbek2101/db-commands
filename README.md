@@ -1,2 +1,2 @@
 # db-commands
-Basic databe commands
+Basic database commands
